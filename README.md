@@ -14,6 +14,8 @@ Aqui está o [**link**](https://www.figma.com/file/m8zp3mtxvwyTGQs69nIFM8/%5BDes
 
 <div align="center">
 
+<a href="https://spa-universe-app.netlify.app/" target="_blank" > <h1> **Deploy 🚀** </h1></a>
+
 # Projeto Final 🤩
 
 ![2022-07-01 15-46-20](https://user-images.githubusercontent.com/101990719/176954000-78901690-4dab-4bc1-afd8-5b35f073a22c.gif)

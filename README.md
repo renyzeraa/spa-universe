@@ -29,6 +29,8 @@ Aqui está o [**link**](https://www.figma.com/file/m8zp3mtxvwyTGQs69nIFM8/%5BDes
           
 </div>
 
+Repositório Licenciado ⚖ [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+
 ### Contato
 
 <img align="left" src="https://www.github.com/renyzeraa.png?size=150">
